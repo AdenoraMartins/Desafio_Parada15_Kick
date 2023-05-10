@@ -1,0 +1,83 @@
+body{
+    background-image: url("../img/fundo.jpg");
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding:0px;
+    margin: 0px;
+}
+.container{
+    background-color: #b5b4b4;
+    width: 700px;
+    margin: auto;
+    flex-wrap: wrap;
+
+}
+
+#b0, #b1{
+    color: #f8f6f6;
+    text-align: center;
+    flex-basis: 150px;
+    margin: auto;
+    padding: 10px;
+}
+#b1{
+    background-color: #8f8d8d;
+}
+
+.box {
+    color: #f8f6f6;
+    text-align: center;
+    width: 150px;
+    height: 150px;
+    background-color: #ed1346;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+.content_1{
+    display: flex;
+    width: 700px;
+    justify-content: center;
+    height: 200px;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.content_2{
+    display: flex;
+    width: 700px;
+    justify-content: center;
+    height: 200px;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.footer{
+    text-align: center;
+    line-height: 60px;
+    background-color: #8f8d8d;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
